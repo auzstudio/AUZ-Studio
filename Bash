@@ -1,0 +1,9 @@
+# Create project folder
+mkdir my-node-app
+cd my-node-app
+
+# Initialize npm (creates package.json)
+npm init -y
+
+# Install Express.js
+npm install express
